@@ -38,7 +38,7 @@ PROGRAM U1_lattice
     END SUBROUTINE jackknife
 
 !--------RAND1----------------------------------------------------------------------------------
-! This is the Rand1 random number generator taken from "Numerical Recipies in Fortran 90, Vol 2"
+! This is the Rand1() function taken from "Numerical Recipies in Fortran 90, Vol 2"
 
     FUNCTION rand1(idum)
 
